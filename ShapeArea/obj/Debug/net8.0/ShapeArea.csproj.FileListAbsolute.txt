@@ -1,0 +1,15 @@
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ShapeArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ShapeArea.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ShapeArea.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ShapeArea.sourcelink.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\bin\Debug\net8.0\ShapeArea.exe
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\bin\Debug\net8.0\ShapeArea.deps.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\bin\Debug\net8.0\ShapeArea.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\bin\Debug\net8.0\ShapeArea.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\bin\Debug\net8.0\ShapeArea.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ShapeArea.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\refint\ShapeArea.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ShapeArea.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ShapeArea.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\ShapeArea\obj\Debug\net8.0\ref\ShapeArea.dll
