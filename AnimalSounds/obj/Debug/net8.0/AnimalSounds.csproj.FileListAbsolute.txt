@@ -1,0 +1,15 @@
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\AnimalSounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\AnimalSounds.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\AnimalSounds.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\AnimalSounds.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\AnimalSounds.sourcelink.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\bin\Debug\net8.0\AnimalSounds.exe
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\bin\Debug\net8.0\AnimalSounds.deps.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\bin\Debug\net8.0\AnimalSounds.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\bin\Debug\net8.0\AnimalSounds.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\bin\Debug\net8.0\AnimalSounds.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\AnimalSounds.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\refint\AnimalSounds.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\AnimalSounds.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\AnimalSounds.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\AnimalSounds\obj\Debug\net8.0\ref\AnimalSounds.dll
