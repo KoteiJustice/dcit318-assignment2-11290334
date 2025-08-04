@@ -1,0 +1,15 @@
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\bin\Debug\net8.0\MovableVehicle.exe
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\bin\Debug\net8.0\MovableVehicle.deps.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\bin\Debug\net8.0\MovableVehicle.runtimeconfig.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\bin\Debug\net8.0\MovableVehicle.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\bin\Debug\net8.0\MovableVehicle.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\MovableVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\MovableVehicle.AssemblyInfoInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\MovableVehicle.AssemblyInfo.cs
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\MovableVehicle.csproj.CoreCompileInputs.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\MovableVehicle.sourcelink.json
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\MovableVehicle.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\refint\MovableVehicle.dll
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\MovableVehicle.pdb
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\MovableVehicle.genruntimeconfig.cache
+C:\Users\Kotei Justice\Desktop\dcit318-assignment2-11290334\MovableVehicle\obj\Debug\net8.0\ref\MovableVehicle.dll
